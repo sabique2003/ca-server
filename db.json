@@ -13,22 +13,10 @@
       "MobileNo": "7994104542",
       "id": 10
     },
-    {
-      "Name": "Arshad",
-      "MobileNo": "89023425111",
-      "id": 12
-    },
-    {
-      "Name": "ranees",
-      "MobileNo": "7885643238",
-      "id": 13
-    }
+
+
   ],
   "favourites": [
-    {
-      "Name": "Arshad",
-      "MobileNo": "89023425111",
-      "id": 12
-    }
+
   ]
 }
